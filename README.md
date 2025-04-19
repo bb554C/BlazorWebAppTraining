@@ -18,7 +18,7 @@ This is my repository for the Learning Path by Microsoft named
         <td>Blazor</td>
         <td>
             <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" height=100px />
             </a>
         </td>
     </tr>
