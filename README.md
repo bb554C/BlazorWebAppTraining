@@ -7,6 +7,14 @@ This is my repository for the Learning Path by Microsoft named
 ## Technology used in this training
 <table style="width:100%">
     <tr>
+        <td>.NET</td>
+        <td>
+            <a href="https://dotnet.microsoft.com/en-us/">
+                <img src="https://raw.githubusercontent.com/dotnet/brand/c7d0f51b8ec59531332d05fb27a5b758a7a3d689/logo/dotnet-logo.svg" height=100px />
+            </a>
+        </td>
+    </tr>
+    <tr>
         <td>C#</td>
         <td>
             <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
