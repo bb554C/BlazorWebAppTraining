@@ -15,6 +15,14 @@ This is my repository for the Learning Path by Microsoft named
         </td>
     </tr>
     <tr>
+        <td>Blazor</td>
+        <td>
+            <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
+            </a>
+        </td>
+    </tr>
+    <tr>
         <td>C#</td>
         <td>
             <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
