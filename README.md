@@ -18,7 +18,7 @@ This is my repository for the Learning Path by Microsoft named
         <td>C#</td>
         <td>
             <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=100px />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" height=100px />
             </a>
         </td>
     </tr>
@@ -26,7 +26,7 @@ This is my repository for the Learning Path by Microsoft named
         <td>HTML</td>
         <td>
             <a href="https://www.w3.org/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=100px />
+                <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" height=100px />
             <a>
         </td>
     </tr>
@@ -34,7 +34,7 @@ This is my repository for the Learning Path by Microsoft named
         <td>CSS</td>
         <td>
             <a href="https://www.w3.org/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=100px />
+                <img src="https://github.com/CSS-Next/logo.css/blob/main/css.svg" height=100px />
             <a>
         </td>
     </tr>
@@ -58,7 +58,7 @@ This is my repository for the Learning Path by Microsoft named
         <td>WebAssembly</td>
         <td>
             <a href="https://webassembly.org/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" height=100p />
+                <img src="https://github.com/carlosbaraza/web-assembly-logo/blob/master/dist/logo/web-assembly-logo.svg" height=100p />
             <a>
         </td>
     </tr>
@@ -74,7 +74,7 @@ This is my repository for the Learning Path by Microsoft named
         <td>Visual Studio</td>
         <td>
             <a href="https://visualstudio.microsoft.com/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height=100px />
+                <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" height=100px />
             <a>
         </td>
     </tr>
